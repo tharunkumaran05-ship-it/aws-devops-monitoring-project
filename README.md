@@ -64,7 +64,7 @@ The project consists of **3 EC2 servers**:
 ### 1. EC2 Instances Overview
 This screenshot shows the three EC2 instances used in the project: firewall/VPN server, application upload server, and Jenkins/monitoring server.
 
-![EC2 Instances](01-ec2-servers.png)
+![[EC2 Instances]](01-ec2-servers.png)
 
 ---
 
