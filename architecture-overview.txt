@@ -1,0 +1,21 @@
+User
+↓
+OpenVPN / Firewall Server (Server 1)
+↓
+Login / Signup Website + MySQL
+↓
+Upload Application Server (Server 2)
+↓
+Jenkins CI/CD Server (Server 3)
+↓
+Routing Logic:
+- Documents and images → Amazon S3
+- Code files → GitHub
+↓
+Monitoring:
+- Prometheus
+- Node Exporter
+- Grafana
+- CloudWatch
+- SNS
+- SQS
